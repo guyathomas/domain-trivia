@@ -1,0 +1,1 @@
+https://adamcod.es/2014/05/15/test-doubles-mock-vs-stub.html
